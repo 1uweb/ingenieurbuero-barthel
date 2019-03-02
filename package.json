@@ -8,5 +8,21 @@
   },
   "dependencies": {
     "gridsome": "^0.5.0"
-  }
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0"
+  },
+  "version": "1.0.0",
+  "main": "gridsome.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1uweb/ingenieurbuero-barthel.git"
+  },
+  "author": "Uwe Barthel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1uweb/ingenieurbuero-barthel/issues"
+  },
+  "homepage": "https://github.com/1uweb/ingenieurbuero-barthel#readme"
 }
